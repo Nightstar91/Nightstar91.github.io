@@ -12,7 +12,7 @@
 
 ## Bracken Zoo Game
 ### A final project centering around the idea of working as a zookeeper in bracken bat cave. It is a tycoon game where the goal is to make a much money as possible while managing a zoo for twenty days.
-![Screenshot of Bracken Zoo](https://github.com/Nightstar91/Nightstar91.github.io/blob/main/image/BrackenZooGame.png)
+![Screenshot of Bracken Zoo](https://github.com/Nightstar91/Nightstar91.github.io/blob/main/image/BrackenZooGame.png?raw=true)
 
 # Assignment
 ## Weather Data WPF
