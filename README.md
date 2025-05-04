@@ -1,6 +1,7 @@
-# Alvaro Troncoso's Programming Portifolio
+# Alvaro Troncoso's Portifolio
 # Project
 
+## Showcase of Programming Project
 ## Crafting Game 
 ### A simple project involving crafting one food item in order sell to the dealer for the most profit
 ![Screenshot of Crafting Game](https://github.com/Nightstar91/Nightstar91.github.io/blob/main/image/CraftingGame.png?raw=true)
